@@ -33,3 +33,6 @@ Temporary Items
 
 # debug file
 _site
+
+# obsidian setting files 
+.obsidian/
